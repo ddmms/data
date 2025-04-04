@@ -1,3 +1,8 @@
-data for various papers
+data for various papers, individual licenses for each of them
 
-mace-mof-0 - paper title
+|---------|------------|--------------|
+| folder  | title      |  doi         |
+|---------|------------|--------------|
+|         |  Machine Learned Potential for High-Throughput Phonon Calculations of Metal-Organic Frameworks | https://arxiv.org/abs/2412.02877 |
+
+
