@@ -1,0 +1,16 @@
+supercell: 2x2x2
+displacement: 0.001
+fmax: 0.0001
+thermal: True
+temp-start: 0
+temp-end: 1000
+temp-step: 10
+bands: True
+dos: True
+minimize: True
+arch: mace_mp
+write-full: True
+plot-to-file: True
+calc-kwargs:
+    model: ../../../../../../models/mofs_v1.model
+device: cuda
