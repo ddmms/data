@@ -1,6 +1,6 @@
 This repository contains the MACE-MP-MOF0 models and the data generated in the paper "Machine Learned Potential for High Throughput Phonon Calculations of Metal--organic Frameworks" (https://arxiv.org/abs/2412.02877)
 
-The v1 and v2 folders contain the two versions of the model reported in the paper. They can be used direcly in ASE, they are compatible with mace 0.3.8 but we suggest using 0.3.9 or newer. The DFT dataset generated in this work (split into train, test and validation sets for the two models) are provided in their respective folders.  
+The v1 and v2 folders contain the two versions of the model reported in the paper. They can be used direcly in ASE, they are compatible with mace 0.3.8 but we suggest using 0.3.9 or newer. The DFT dataset generated in this work (split into train, test and validation sets for the model) is provided in the v2 folder.  
 
 The "127 Curated Dataset.zip" folder contains the the input cifs for the curated dataset in this work.
 
